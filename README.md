@@ -1,11 +1,3 @@
-Mình hiểu ý bạn rồi. Mình đã gỡ bỏ hết các biểu tượng cảm xúc (emoji) và điều chỉnh lại câu chữ cho tự nhiên, giống văn phong một người thật đang gõ văn bản hơn.
-
-Bạn xem thử bản này nhé:
-
-Lab 09: Bảo mật thông tin và Sức khỏe số
-Giới thiệu
-Đây là kho lưu trữ tài liệu kế hoạch thực hành (5 tiết) thuộc chủ đề Bảo mật thông tin và Sức khỏe số. Kế hoạch này được thiết kế dành cho sinh viên năm nhất ngành Công nghệ Thông tin, giúp các bạn trang bị kiến thức và kỹ năng cần thiết để an toàn trên không gian mạng và giữ gìn sức khỏe số.
-
 Mục tiêu tổng quát
 Nắm được các rủi ro và nguyên tắc cơ bản để bảo vệ thông tin cá nhân.
 
